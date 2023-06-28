@@ -24,20 +24,22 @@ BiocManager::install(
     "DESeq2",
     ## the data package
     "macrophage",
+    ## for the enrichment analyses
+    "topGO",
+    "clusterProfiler"
     ## some interactive shiny apps and packages
     "pcaExplorer",
     "ideal",
     "GeneTonic",
     "iSEE",
-    ## some corollary packages
+    ## some corollary packages required to run all the code
     "tximeta",
     "org.Hs.eg.db",
     "ExploreModelMatrix",
     "apeglm",
     "pheatmap",
-    ## for the enrichment analyses
-    "topGO",
-    "clusterProfiler"
+    "iSEEu".
+    "edgeR"
   )
 )
 ```
