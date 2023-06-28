@@ -3,9 +3,9 @@ title: >
   Transcriptome Data Analysis - hands-on session
 subtitle: >
   Bulk RNA-seq Workshop - Frankfurt</br>
+  Instructor: Federico Marini (IMBEI, University Medical Center Mainz)</br>
   <small>Material adapted from the GTIPI practical session by</small></br>
   <a href="https://imbeimainz.github.io/GTIPI2022"><img src="images/gtipi_logo.png" alt="" height="100"/></a><br>
-  Instructor: Federico Marini (IMBEI, University Medical Center Mainz)</br>
 author:
 - name: <a href="https://csoneson.github.io">Charlotte Soneson (charlotte.soneson@fmi.ch)</a><br><a href="https://www.fmi.ch/bioinformatics/">FMI Basel</a><br><a href="https://twitter.com/CSoneson">`r icons::fontawesome('twitter')` `@CSoneson`</a>
 - name: <a href="https://federicomarini.github.io">Federico Marini (marinif@uni-mainz.de)</a><br><a href="https://www.unimedizin-mainz.de/imbei/">IMBEI, University Medical Center Mainz</a><br><a href="https://twitter.com/FedeBioinfo">`r icons::fontawesome('twitter')` `@FedeBioinfo`</a>
