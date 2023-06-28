@@ -16,21 +16,29 @@ To make sure you're all set for running the code interactively, run this command
 install.packages("BiocManager")
 BiocManager::install()
 BiocManager::install(
-  c("knitr",
+  c(
+    ## some packages for basic operations
+    "knitr",
     "rmarkdown",
+    ## the main DE framework we will use
     "DESeq2",
+    ## the data package
+    "macrophage",
+    ## some interactive shiny apps and packages
+    "pcaExplorer",
+    "ideal",
+    "GeneTonic",
+    "iSEE",
+    ## some corollary packages
     "tximeta",
     "org.Hs.eg.db",
     "ExploreModelMatrix",
-    "pcaExplorer",
-    "ideal",
-    "macrophage",
     "apeglm",
     "pheatmap",
-    "iSEE",
-    "GeneTonic",
+    ## for the enrichment analyses
     "topGO",
     "clusterProfiler"
   )
 )
 ```
+
