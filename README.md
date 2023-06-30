@@ -26,7 +26,7 @@ BiocManager::install(
     "macrophage",
     ## for the enrichment analyses
     "topGO",
-    "clusterProfiler"
+    "clusterProfiler",
     ## some interactive shiny apps and packages
     "pcaExplorer",
     "ideal",
@@ -38,7 +38,7 @@ BiocManager::install(
     "ExploreModelMatrix",
     "apeglm",
     "pheatmap",
-    "iSEEu".
+    "iSEEu",
     "edgeR"
   )
 )
